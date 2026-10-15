@@ -129,3 +129,7 @@ We provide a complete evaluation workflow in [`eval/`](eval/README.md) for paper
 
 For questions or suggestions, feel free to contact the first-author at
 (phuclai@qti.qualcomm.com) or (phuckstnk63dktd@gmail.com).
+
+## License
+
+This repository is released under the BSD-3-Clause-Clear license. See [LICENSE](LICENSE) for the full license text.
