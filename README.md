@@ -132,4 +132,4 @@ For questions or suggestions, feel free to contact the first-author at
 
 ## License
 
-This repository is released under the BSD-3-Clause-Clear license. See [LICENSE](LICENSE) for the full license text.
+This repository is released under the BSD-3-Clause-Clear license. See [LICENSE.txt](LICENSE.txt) for the full license text.
